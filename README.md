@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Aleksandr
 - 🔭 I'm currently working at Research Department of Huawei in St.Petersburg (Russia)
 - 🤖 I have a huge interest in Deep Reinforcement Learning
-- ⚡ Fun fact: I have two cats and you see one of them on my avatar pic
+- ⚡ Fun fact: I have two cats Marvel and Astra, the former can be spotted on my avatar pic
 
 ![Astralord's GitHub stats](https://github-readme-stats.vercel.app/api?username=astralord&show_icons=true&theme=calm)
 
