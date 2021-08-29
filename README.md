@@ -4,8 +4,6 @@
 - 🤖 I have a huge interest in Deep Reinforcement Learning
 - ⚡ Fun fact: I have two cats and one of them you see on my avatar pic
 
-![Astralord's GitHub stats](https://github-readme-stats.vercel.app/api?username=astralord&show_icons=true&theme=calm)
-
 Check out the most ✨ _popular_ ✨ repositories on my page:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astralord&repo=RandLib&theme=calm)](https://github.com/astralord/RandLib)
