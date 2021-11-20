@@ -5,7 +5,8 @@
 - 🤖 I have a huge interest in Deep Reinforcement Learning
 - ⚡ Fun fact: I have two cats, one can be spotted on my avatar pic
 
-![Astralord's GitHub stats](https://github-readme-stats.vercel.app/api?username=astralord&show_icons=true&theme=calm) ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexandersamarin/competition)
+![Astralord's GitHub stats](https://github-readme-stats.vercel.app/api?username=astralord&show_icons=true&theme=calm) ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexandersamarin/competition) ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexandersamarin/notebook)
+
 
 Check out the most ✨ _popular_ ✨ repositories on my page:
 
