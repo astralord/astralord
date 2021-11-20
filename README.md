@@ -1,10 +1,11 @@
 
-### Hi there 👋, my name is Aleksandr
+### Hi there 👋, my name is Aleksandr 
+
 - 🔭 I'm currently working at Research Department of Huawei in St.Petersburg (Russia)
 - 🤖 I have a huge interest in Deep Reinforcement Learning
 - ⚡ Fun fact: I have two cats, one can be spotted on my avatar pic
 
-![Astralord's GitHub stats](https://github-readme-stats.vercel.app/api?username=astralord&show_icons=true&theme=calm)
+![Astralord's GitHub stats](https://github-readme-stats.vercel.app/api?username=astralord&show_icons=true&theme=calm) ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexandersamarin/competition)
 
 Check out the most ✨ _popular_ ✨ repositories on my page:
 
