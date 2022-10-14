@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Aleksandr 
 
-- 🔭 I'm currently working at Research Department of Huawei in St.Petersburg (Russia)
+- 🔭 I currently work at Research Department of Huawei in St.Petersburg (Russia)
 - 🤖 I have a huge interest in Generative Deep Learning and Deep Reinforcement Learning
 - ⚡ Fun fact: I have two cats, one can be spotted on my avatar pic
 
