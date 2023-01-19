@@ -7,12 +7,7 @@
 - 🤖 Have a huge interest in Generative Deep Learning and Deep Reinforcement Learning
 - ⚡ Fun fact: I have two cats, one can be spotted on my avatar pic
 
-![Astralord's GitHub stats](https://github-readme-stats.vercel.app/api?username=astralord&show_icons=true&theme=calm)
-
 Check out my ✨[_blog_](https://astralord.github.io/)✨ and the most popular repositories on this page:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astralord&repo=RandLib&theme=calm)](https://github.com/astralord/RandLib)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astralord&repo=Statistics-lectures&theme=calm)](https://github.com/astralord/Statistics-lectures)
 
 <!--
 
